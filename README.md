@@ -1,4 +1,6 @@
 # newsindia
+A Application to showcase latest news from various fields.
+Api Used : https://newsapi.org
 
 A new Flutter application.
 
